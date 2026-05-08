@@ -1,4 +1,7 @@
 # makan-makan-raya-scrabble
+<img width="1468" height="720" alt="Screenshot 2026-05-08 at 11 21 37 AM" src="https://github.com/user-attachments/assets/9f5e49ae-081d-4166-83d3-c113345344aa" />
+
+
 A nostalgic Raya themed static HTML mini game/landing page built with vanilla HTML, CSS, and JavaScript. Open with VS Code Live Server to run locally.
 
 ## Preview
