@@ -1,0 +1,25 @@
+@font-face {
+    font-family:'AhmetAltun-HarmanSans';
+    src: url('../fonts/AhmetAltun-HarmanSans.otf') format("opentype");
+}
+
+body {
+  background-color: #fff9ea;
+  margin: 0;
+}
+
+.customFont {
+    font-family: AhmetAltun-HarmanSans;
+}
+
+.bg-green {
+  background-color: #01ba7f;
+}
+
+.bg-yellow {
+  background-color: #fff9ea;
+}
+
+.no-padding {
+  padding: 0;
+}

@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Harman Sans';
+    src: url('Harman-Sans.woff2') format('woff2'),
+        url('Harman-Sans.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Harman Elegant';
+    src: url('Harman-Elegant.woff2') format('woff2'),
+        url('Harman-Elegant.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
